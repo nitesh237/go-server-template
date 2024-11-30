@@ -1,0 +1,4 @@
+[submodule "scripts/update-golang"]
+	path = scripts/update-golang
+	url = https://github.com/udhos/update-golang
+	branch = master
